@@ -7,3 +7,5 @@ Used Linear Regression Model for Prediction along with Python Flask Server Backe
 
 Deployed on AWS 
 http://ec2-3-139-83-181.us-east-2.compute.amazonaws.com/
+
+![Screenshot](website.jpg)
